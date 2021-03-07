@@ -1,6 +1,2 @@
 js. r+ open the file for  reading and writing. w+ open the file for reading a   nd writing, positioning the stream at the beginning    of the file. a open the file for writing, positioning the stream at the end of the file. a+ open the file for reading and writing, positioning the stream at the end of the file
 js. r+ open the file for  reading and writing. w+ open the file for reading a   nd writing, positioning the stream at the beginning    of the file. a open the file for writing, positioning the stream at the end of the file. a+ open the file for reading and writing, positioning the stream at the end of the file
-
-
-
-dfd
